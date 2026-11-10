@@ -1,0 +1,19 @@
+```text
+# Скомпилированные файлы (сборка)
+*.exe
+*.o
+*.obj
+*.out
+
+# Папки сборки (например, CMake)
+build/
+cmake-build-debug/
+
+# Настройки среды разработки (VS Code, CLion, Visual Studio)
+.vscode/
+.idea/
+*.sln
+*.vcxproj
+
+# Тестовые текстовые файлы, созданные во время проверки программы
+*.txt
